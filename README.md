@@ -1,0 +1,3 @@
+# my_space
+设置FLAGS不使用C++11的string
+CFLAGS += -DUNICODE -D_GLIBCXX_USE_CXX11_ABI=0
